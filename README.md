@@ -1,2 +1,2 @@
 # .github
-GitHub Repositories for @luxiazx.dev
+GitHub README Profile for @luxiazx.dev
